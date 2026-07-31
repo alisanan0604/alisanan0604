@@ -3,18 +3,50 @@
      width="1280"
      height="400">
 
-  <!-- Background -->
-  <rect width="1280" height="400" fill="#0D1117"/>
+    <!-- Background -->
+    <rect width="1280" height="400" fill="#0D1117"/>
 
-  <!-- Outer Border -->
-  <rect
-      x="15"
-      y="15"
-      width="1250"
-      height="370"
-      rx="8"
-      fill="none"
-      stroke="#00D9FF"
-      stroke-width="2"/>
+    <!-- Main Border -->
+    <rect
+        x="15"
+        y="15"
+        width="1250"
+        height="370"
+        rx="8"
+        fill="none"
+        stroke="#00D9FF"
+        stroke-width="2"/>
+
+    <!-- TOP LEFT -->
+    <path
+        d="M40 70 L40 40 L70 40"
+        fill="none"
+        stroke="#00D9FF"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+    <!-- TOP RIGHT -->
+    <path
+        d="M1240 70 L1240 40 L1210 40"
+        fill="none"
+        stroke="#00D9FF"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+    <!-- BOTTOM LEFT -->
+    <path
+        d="M40 330 L40 360 L70 360"
+        fill="none"
+        stroke="#00D9FF"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+    <!-- BOTTOM RIGHT -->
+    <path
+        d="M1240 330 L1240 360 L1210 360"
+        fill="none"
+        stroke="#00D9FF"
+        stroke-width="4"
+        stroke-linecap="round"/>
 
 </svg>
