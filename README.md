@@ -1,43 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sanan Ali</h1>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+</p>
 
-<h3 align="center">
-Full Stack Developer • AI Enthusiast • Open Source Learner
-</h3>
+<h1 align="center">
+  Hi, I'm Sanan Ali 👋
+</h1>
 
 <p align="center">
-Building modern web applications and AI-powered projects.
+  Full Stack Developer • AI Developer
+</p>
+
+<p align="center">
+  <a href="https://frabjous-squirrel-e40a88.netlify.app/">
+    Portfolio
+  </a>
+  •
+  <a href="mailto:alisanan0604@gmail.com">
+    Email
+  </a>
+  •
+  <a href="https://github.com/alisanan0604">
+    GitHub
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 BCA Student
-- 💻 Learning Full Stack Development
-- 🤖 Interested in Artificial Intelligence
-- 🌱 Currently improving React, Next.js and TypeScript
-- 🚀 Building real-world projects
-
----
-
-## 🛠 Tech Stack
-
-Coming Soon...
-
----
-
-## 📌 Featured Projects
-
-Coming Soon...
-
----
-
-## 📊 GitHub Stats
-
-Coming Soon...
-
----
-
-## 📫 Connect With Me
 
 Coming Soon...
