@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanan Ali</h1>
 
-<!--
-**alisanan0604/alisanan0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Open Source Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern web applications and AI-powered projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BCA Student
+- 💻 Learning Full Stack Development
+- 🤖 Interested in Artificial Intelligence
+- 🌱 Currently improving React, Next.js and TypeScript
+- 🚀 Building real-world projects
+
+---
+
+## 🛠 Tech Stack
+
+Coming Soon...
+
+---
+
+## 📌 Featured Projects
+
+Coming Soon...
+
+---
+
+## 📊 GitHub Stats
+
+Coming Soon...
+
+---
+
+## 📫 Connect With Me
+
+Coming Soon...
