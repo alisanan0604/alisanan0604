@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=alisanan0604&fontSize=55&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Sanan_Ali&fontSize=55&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="header"/>
 </p>
 
 <!-- Typing SVG -->
@@ -12,7 +12,7 @@
 
 <!-- Profile views + followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanan Ali&color=7dd3fc&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=alisanan0604&color=7dd3fc&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/alisanan0604?color=7dd3fc&style=flat-square" alt="Followers"/>
 </p>
 
