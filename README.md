@@ -20,30 +20,6 @@
 
 ### 🧑‍💻 Who I Am
 
-```typescript
-const alisanan0604 = {
-  title: "Full Stack Developer", // change if this isn't accurate
-  stack: [
-    "C", "Java", "Python",
-    "JavaScript", "TypeScript",
-    "React", "Next.js",
-    "Node.js", "Express",
-    "MySQL", "MongoDB"
-  ],
-  launchedProjects: [
-    // "your-repo-name", "another-repo-name"
-  ],
-  certifications: [
-    // "Certification Name — Issuer"
-  ],
-  status: "Building cool things with code 🚀",
-  openTo: [
-    // "Internships", "Collaboration", "Full-time roles"
-  ],
-};
-```
-
----
 
 ### 🚀 Featured Projects
 
