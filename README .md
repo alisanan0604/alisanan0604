@@ -88,8 +88,8 @@ _Add your featured project(s) here._
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisanan0604&show_icons=true&theme=dracula&border_color=8be9fd&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisanan0604&layout=compact&theme=dracula&border_color=8be9fd&hide_border=false" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alisanan0604&show_icons=true&theme=dracula&border_color=8be9fd&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisanan0604&layout=compact&theme=dracula&border_color=8be9fd&hide_border=false"/>
 </p>
 
 <p align="center">
