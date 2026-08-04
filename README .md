@@ -1,18 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,50:44475A,100:6272A4&height=220&section=header&text=Sanan%20Ali&fontSize=60&fontColor=8BE9FD&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20%40alisanan0604&descAlignY=52&descAlign=50&descColor=FF79C6" alt="header"/>
-</p>
-
-<!-- Circular avatar -->
-<p align="center">
-  <img src="https://github.com/alisanan0604.png" width="150" height="150" style="border-radius:50%;border:3px solid #8BE9FD;" alt="avatar"/>
-</p>
-
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Next.js;Full+Stack+JavaScript+Developer;Always+learning+something+new" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0F19,25:1F2430,50:282A36,75:44475A,100:6272A4&text=Sanan%20Ali&fontColor=8BE9FD&fontSize=58&fontAlignY=34&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=54&descColor=FF79C6"/>
 </p>
 
 <!-- Profile views + followers -->
@@ -88,18 +76,9 @@ _Add your featured project(s) here._
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alisanan0604&show_icons=true&theme=dracula&hide_border=false"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=alisanan0604&theme=dracula"/>
-</p>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alisanan0604&show_icons=true&theme=dracula"/>
 
-### 🏅 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alisanan0604&theme=dracula&no-frame=true&no-bg=false&margin-w=10" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8BE9FD,50:BD93F9,100:FF79C6&height=4" width="100%" alt="divider"/>
+<img height="170" src="https://streak-stats.demolab.com?user=alisanan0604&theme=dracula"/>
 </p>
 
 ### 📈 Contribution Activity
