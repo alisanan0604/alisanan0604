@@ -88,17 +88,8 @@ _Add your featured project(s) here._
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alisanan0604&show_icons=true&theme=dracula&border_color=8be9fd&hide_border=false" height="165"/>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alisanan0604&layout=compact&theme=dracula&border_color=8be9fd&hide_border=false" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alisanan0604&theme=dracula&border=8be9fd&fire=ff79c6&ring=8be9fd"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8BE9FD,50:BD93F9,100:FF79C6&height=4" width="100%"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alisanan0604&show_icons=true&theme=dracula&hide_border=false"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=alisanan0604&theme=dracula"/>
 </p>
 
 ### 🏅 Achievements
