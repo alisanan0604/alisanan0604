@@ -1,1 +1,0 @@
-[![alisanan0604's GitSkins profile skin](https://www.gitskins.com/api/premium-card?username=alisanan0604&theme=autumn&variant=persona)](https://www.gitskins.com/showcase/alisanan0604?skin=renaissance)
