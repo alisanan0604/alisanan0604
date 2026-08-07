@@ -1,126 +1,244 @@
-<div align="center">
-
-<img src="https://github.com/alisanan0604.png" width="120" height="120" style="border-radius:50%;" alt="alisanan0604" />
-
 # alisanan0604
 
-### Memorable developer positioning.
+```bash
+alisanan0604@github:~$ cat info.txt
 
-</div>
-
-<br/>
-
-```zsh
-alisanan0604@github: ~ — -zsh
-
-alisanan0604@github :~$ whoami
-Sanan Ali
-Developer
-
-alisanan0604@github :~$ cat bio.txt
-Building with code on GitHub.
-
-alisanan0604@github :~$
+Name      : Sanan Ali
+Role      : Full Stack Developer
+Location  : India
+Focus     : AI • Web Development • Open Source
+Status    : Building modern web applications 🚀
 ```
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Learning+AI+Engineering;Welcome+to+my+GitHub!" />
+</p>
 
-Hi, I'm **alisanan0604**, a full-stack engineer focused on memorable developer positioning.
+---
 
-## About Me
+## HEADER
 
-```zsh
-alisanan0604@github :~$ cat about.md
+```bash
+alisanan0604@github:~$ whoami
+Sanan Ali
+```
+
+```bash
+alisanan0604@github:~$ cat bio.txt
+Building with code on GitHub.
+```
+
+---
+
+## ABOUT ME
+
+```bash
+alisanan0604@github:~$ cat about.md
 Engineer building with code.
-
 > open to collaboration
 ```
 
 **Full-Stack Engineer**
+
 Shapes the short profile story and positioning. The copy is tuned for a confident tone and a creative README.
 
-<br/>
+---
 
-## Skills
+## 📄 about.md
 
-```zsh
-alisanan0604@github :~$ ls skills/
-TypeScript   React   Go   Rust
+```bash
+alisanan0604@github:~$ cat about.md
+
+> Name      : Sanan Ali
+> Role      : Full Stack Developer
+> Location  : India
+
+> Currently Building
+  • Modern Full Stack Web Applications
+  • AI-powered Projects
+  • Open Source Projects
+
+> Interests
+  • Artificial Intelligence
+  • Web Development
+  • UI / UX Design
+  • Problem Solving
+
+> Currently Learning
+  • Next.js
+  • TypeScript
+  • AI Engineering
+
+> Goal
+  Build software that is fast, useful and visually impressive.
 ```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Product Engineering](https://img.shields.io/badge/Product%20Engineering-1F2937?style=for-the-badge)
+---
 
-<br/>
+## WORDMARK
 
-## GitHub Stats
-
-```zsh
-alisanan0604@github :~$ neofetch
-
-alisanan0604@github
-----------------------
-Name        Sanan Ali
-Role        Developer
-Stars       0
-Repos       2
-Followers   0
-Top Lang    —
-Activity    32 contributions
+```text
+ SSSSSSSSS  SSSSSS   SSSS  SS  SSSSS   SSSS        SSSSSSS   LL      IIIIIII
+SS+++++++S  S+++SS  SS++SS SS  S+++SS  SS+SS       SS   SS   LL        III
+SS          SS   SS  SSSSS  SS  SS   SS SS SS      SS   SS   LL        III
+SSSSSSSSSS  SSSSSS   SSSS   SS  SSSSSS  SS SS      SSSSSSS   LL        III
+       +SS SS   SS  SS SS  SS  SS   SS SS SS       SS   SS   LL        III
+SS+++++++S SS    SS SS  SS SS  SS    SS SS++SS     SS   +S   LL        III
+SSSSSSSSS  SS    SS SS  SSSS  SS    SS SSSSSS      SS   SS   LLLLLLL IIIIIII
 ```
 
-<br/>
+---
 
-## Projects
+## PORTRAIT
 
-```zsh
-alisanan0604@github :~$ ls -la repos/
-awesome-project
+```text
+@@@@@@@@@@@%%@%%@@@@%%%%%%%%%%%%%%%####%##*#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%%@@@@@@@@@@@@@@@@@@@@%%%%%%%
+@@@@@@@@@@@@%%%@@%@@%%%%%%%%%%%%%%#########%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%@%%%%%@@@@@@@@@@@@@@@@@@@%%%%%%%%
+@@@@@@@@@@%%%%%@%@%%%%%%%%%%%%%%%###*%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@%%%%%%%%
+...
 ```
 
-### alisanan0604-studio
-A personal brand project with clear outcomes and a polished product surface.
+---
 
-`TypeScript` `Next.js` `React`
+## INTRO
 
-### developer-tools
-Reusable systems, automation, and GitHub-native workflow improvements.
+Hi, I’m **alisanan0604**, a full-stack engineer focused on memorable developer positioning.
 
-`React` `Node.js` `Product Engineering`
+---
 
-<br/>
+## 📂 skills/
 
-## Highlights
+```bash
+alisanan0604@github:~$ ls skills/
 
-```zsh
-alisanan0604@github :~$ cat highlights.txt
+📦 Languages
+├── C
+├── Java
+├── Python
+├── JavaScript
+└── TypeScript
+
+📦 Frontend
+├── HTML5
+├── CSS3
+├── React.js
+└── Next.js
+
+📦 Backend
+├── Node.js
+└── Express.js
+
+📦 Database
+├── MySQL
+└── MongoDB
+
+📦 Tools
+├── Git
+├── GitHub
+├── VS Code
+└── Figma
 ```
 
-> _Add your highlights here (this section was cropped off in the screenshot, so I couldn't read its content — send me the text and I'll drop it in)._
+**Top skills:** TypeScript • Next.js • React • Node.js • Product Engineering
 
-<br/>
+---
 
-## Heatmap
+## GITHUB STATS
 
-```zsh
-alisanan0604@github :~$ ./contributions.sh
+```bash
+alisanan0604@github:~$ neofetch
+```
+
+**Profile**
+- Name: Sanan Ali
+- Role: Developer
+- Stars: 0
+- Repos: 2
+- Followers: 0
+- Top Lang: —
+- Activity: 32 contributions
+
+**Theme:** Aurora
+**Motion:** playful
+**Sections:** 8
+
+---
+
+## 📊 system-status.log
+
+```bash
+alisanan0604@github:~$ systemctl status developer
+
+● Developer Status
+─────────────────────────────────────────────
+
+✔ Status      : Online
+✔ Focus       : Full Stack Development
+✔ Learning    : AI Engineering
+✔ Open Source : Active
+✔ Coffee      : Required ☕
+✔ Bugs Fixed  : Still Counting...
+```
+
+---
+
+## 📁 projects/
+
+```bash
+alisanan0604@github:~$ tree projects/
+
+📂 Projects
+├── 🚖 Cab Booking Platform
+│   ├── React
+│   ├── Node.js
+│   └── MySQL
+│
+├── 🌐 Portfolio Website
+│   ├── Next.js
+│   └── Responsive UI
+│
+└── 🤖 AI Assistant
+    ├── Python
+    ├── Voice Commands
+    └── AI Integration
+```
+
+**Featured Projects**
+- alisanan0604-studio — A personal brand project with clear outcomes and a polished product surface. (TypeScript, Next.js, React)
+- developer-tools — Reusable systems, automation, and GitHub-native workflow improvements. (React, Node.js, Product Engineering)
+
+---
+
+## HIGHLIGHTS
+
+```bash
+alisanan0604@github:~$ cat highlights.txt
+```
+
+- Built and shipped full-stack products end-to-end
+- Open source contributor across React + TypeScript ecosystem
+- Focused on clean architecture and developer experience
+
+---
+
+## HEATMAP
+
+```bash
+alisanan0604@github:~$ ./contributions.sh
+```
 
 32 contributions in the last year
+
+---
+
+## CONNECT
+
+```bash
+alisanan0604@github:~$ ./links.sh
 ```
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisanan0604&theme=react-dark&hide_border=true)
+GitHub: github.com/alisanan0604
 
-<br/>
+---
 
-## Connect
-
-```zsh
-alisanan0604@github :~$ ./links.sh
-
-GitHub   github.com/alisanan0604
-```
-
-Let's build something useful together.
+Let’s build something useful together.
