@@ -1,9 +1,3 @@
-# alisanan0604
-
-> Memorable developer positioning.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
 ## Header
 > Editing this section in the inspector.
 Hi, I'm **alisanan0604**. This README is tuned for **personal brand** with a GitHub visual system.
