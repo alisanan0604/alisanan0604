@@ -1,5 +1,4 @@
 ## Header
-> Editing this section in the inspector.
 Hi, I'm **alisanan0604**. This README is tuned for **personal brand** with a GitHub visual system.
 <p align="center">
   <picture>
@@ -7,8 +6,7 @@ Hi, I'm **alisanan0604**. This README is tuned for **personal brand** with a Git
     <img src="https://www.gitskins.com/api/section/hero?username=alisanan0604&theme=github-dark" alt="alisanan0604 hero section" />
   </picture>
 </p>
-## Heatmap
-Animated year-long contribution calendar.
+
 ## GitHub Stats
 GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
