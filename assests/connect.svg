@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="265" viewBox="0 0 1000 265">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<rect x="18" y="18" width="964" height="230" rx="12" fill="#161b22" stroke="#30363d"/><text x="40" y="47" fill="#2dd4bf" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">CONNECT</text><text x="930" y="47" text-anchor="end" fill="#8b949e" font-family="monospace" font-size="13">1 visual</text><line x1="40" y1="60" x2="960" y2="60" stroke="#30363d"/>
+<rect x="40" y="72" width="920" height="130" rx="9" fill="#0d1117" stroke="#30363d"/>
+<rect x="40" y="72" width="920" height="42" rx="9" fill="#21262d" stroke="#30363d"/>
+<rect x="40" y="105" width="920" height="9" fill="#21262d"/>
+<circle cx="64" cy="93" r="7" fill="#ff5f57"/>
+<circle cx="88" cy="93" r="7" fill="#ffbd2e"/>
+<circle cx="112" cy="93" r="7" fill="#28c840"/>
+<text x="500.0" y="98" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="14">alisanan0604@github: ~$ ./links.sh</text>
+<text x="36" y="90" fill="#2dd4bf" font-family="monospace" font-size="15" font-weight="600">alisanan0604@github</text><text x="206" y="90" fill="#8b949e" font-family="monospace" font-size="15"> :~$ </text><text x="256" y="90" fill="#e6edf3" font-family="monospace" font-size="15">./links.sh</text><text x="36" y="130" fill="#2dd4bf" font-family="monospace" font-size="13" font-weight="600">GitHub</text><text x="140" y="130" fill="#e6edf3" font-family="monospace" font-size="13">github.com/alisanan0604</text><text x="36" y="160" fill="#2dd4bf" font-family="monospace" font-size="13" font-weight="600">Portfolio</text><text x="140" y="160" fill="#e6edf3" font-family="monospace" font-size="13">sananali-portfolio.netlify.app</text>
+
+<text x="40" y="226" fill="#8b949e" font-family="monospace" font-size="13">Let&apos;s build something useful together.</text>
+</svg>
