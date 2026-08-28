@@ -1,119 +1,40 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EE6A6&center=true&vCenter=true&width=500&lines=alisanan0604%40github%3A+~%24+whoami;Sanan+Ali+-+Developer;alisanan0604%40github%3A+~%24+cat+bio.txt;Building+with+code+on+GitHub." alt="Typing SVG" />
+<img src="./assets/hero.png" width="100%" alt="alisanan0604 github" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="./assets/about.png" width="100%" alt="About Me" />
 
-## 🟢 About Me
+<br/><br/>
 
-```bash
-alisanan0604@github :~$ cat about.md
+<img src="./assets/skills.png" width="100%" alt="Skills" />
 
-Engineer building with code.
+<br/><br/>
 
-> open to collaboration
-```
+<img src="./assets/stats_header.png" width="100%" alt="GitHub Stats" />
 
-Hi, I'm **alisanan0604**, a full-stack engineer focused on memorable developer positioning.
-
-<br/>
-
-## 🟢 Skills
-
-```bash
-alisanan0604@github :~$ ls skills/
-TypeScript   React   Go   Rust
-```
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=2EE6A6&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=next.js&logoColor=2EE6A6&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=2EE6A6&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=2EE6A6&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Product_Engineering-1a1a2e?style=for-the-badge&logoColor=2EE6A6&labelColor=1a1a2e" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=alisanan0604&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisanan0604&theme=dark&hide_border=true&background=0D1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6" width="49%" />
 
 <br/>
 
-## 🟢 GitHub Stats
+<img src="./assets/stat_strip.png" width="100%" alt="theme motion sections" />
 
-```bash
-alisanan0604@github :~$ neofetch
-```
+<br/><br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alisanan0604&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alisanan0604&theme=dark&hide_border=true&background=0d1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6" width="48%" />
-</div>
+<img src="./assets/projects.png" width="100%" alt="Projects" />
 
-<div align="center">
+<br/><br/>
 
-| Aurora | playful | 8 |
-|:---:|:---:|:---:|
-| **THEME** | **MOTION** | **SECTIONS** |
+<img src="./assets/heatmap.png" width="100%" alt="Heatmap" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisanan0604&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EE6A6&line=2EE6A6&point=ffffff" width="100%"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="./assets/connect.png" width="100%" alt="Connect" />
 
-## 🟢 Projects
-
-```bash
-alisanan0604@github :~$ ls -la repos/
-awesome-project
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**alisanan0604-studio**
-
-A personal brand project with clear outcomes and a polished product surface.
-
-`TypeScript` `Next.js` `React`
-
-</td>
-<td width="50%" valign="top">
-
-**developer-tools**
-
-Reusable systems, automation, and GitHub-native workflow improvements.
-
-`React` `Node.js` `Product Engineering`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🟢 Heatmap
-
-```bash
-alisanan0604@github :~$ ./contributions.sh
-```
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisanan0604&theme=react-dark&hide_border=true&bg_color=0d1117&color=2EE6A6&line=2EE6A6&point=ffffff" width="100%"/>
-</div>
-
-<br/>
-
-## 🟢 Connect
-
-```bash
-alisanan0604@github :~$ ./links.sh
-GitHub  github.com/alisanan0604
-```
-
-<p align="left">
-<a href="https://github.com/alisanan0604"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=2EE6A6&labelColor=1a1a2e" /></a>
-<a href="https://frabjous-squirrel-e40a88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=2EE6A6&labelColor=1a1a2e" /></a>
-</p>
-
-_Let's build something useful together._
+<a href="https://github.com/alisanan0604"><img src="https://img.shields.io/badge/GitHub-11151A?style=for-the-badge&logo=github&logoColor=2EE6A6" /></a>
+<a href="https://frabjous-squirrel-e40a88.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-11151A?style=for-the-badge&logo=vercel&logoColor=2EE6A6" /></a>
 
 </div>
