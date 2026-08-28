@@ -1,0 +1,37 @@
+# alisanan0604
+
+<div align="center">
+
+### `Sanan Ali` · Developer
+
+Building with TypeScript, React, and modern web technologies.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/header.svg" alt="Terminal-style profile header" width="100%">
+
+<img src="./assets/about.svg" alt="About me terminal" width="100%">
+
+<img src="./assets/skills.svg" alt="Skills terminal" width="100%">
+
+<img src="./assets/stats.svg" alt="GitHub stats terminal" width="100%">
+
+<img src="./assets/projects.svg" alt="Projects terminal" width="100%">
+
+<img src="./assets/heatmap.svg" alt="Contribution heatmap terminal" width="100%">
+
+<img src="./assets/connect.svg" alt="Connect terminal" width="100%">
+
+</div>
+
+---
+
+### Notes
+
+- This README is a GitHub-native implementation of the terminal design from the Figma project.
+- The visual cards are SVG assets stored in this repository; GitHub does not execute the React `App.tsx` or `index.css`.
+- Update the project names/descriptions and stats whenever your GitHub profile changes.
