@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" alt="About Sanan Ali" width="860" />
+  <img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/about.svg">
 </p>
 
 <p align="center">
