@@ -12,21 +12,20 @@ Building with TypeScript, React, and modern web technologies.
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="Terminal-style profile header" width="100%">
+<img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/header.svg" alt="Terminal-style profile header" width="100%">
 
-<img src="./assets/about.svg" alt="About me terminal" width="100%">
+<img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/about.svg" alt="About me terminal" width="100%">
 
-<img src="./assets/skills.svg" alt="Skills terminal" width="100%">
+<img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/skills.svg" alt="Skills terminal" width="100%">
 
-<img src="./assets/stats.svg" alt="GitHub stats terminal" width="100%">
+<img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/stats.svg" alt="GitHub stats terminal" width="100%">
 
-<img src="./assets/projects.svg" alt="Projects terminal" width="100%">
+<img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/projects.svg" alt="Projects terminal" width="100%">
 
-<img src="./assets/heatmap.svg" alt="Contribution heatmap terminal" width="100%">
+<img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/heatmap.svg" alt="Contribution heatmap terminal" width="100%">
 
-<img src="./assets/connect.svg" alt="Connect terminal" width="100%">
+<img src="https://raw.githubusercontent.com/alisanan0604/alisanan0604/main/assets/connect.svg" alt="Connect terminal" width="100%">
 
 </div>
 
 ---
-
