@@ -30,8 +30,3 @@ Building with TypeScript, React, and modern web technologies.
 
 ---
 
-### Notes
-
-- This README is a GitHub-native implementation of the terminal design from the Figma project.
-- The visual cards are SVG assets stored in this repository; GitHub does not execute the React `App.tsx` or `index.css`.
-- Update the project names/descriptions and stats whenever your GitHub profile changes.
