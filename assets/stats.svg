@@ -53,14 +53,14 @@
         font-family="Courier New, Consolas, monospace"
         font-size="13">
     <tspan fill="#2dd4bf" font-weight="bold">Repositories</tspan>
-    <tspan x="190" fill="#e6edf3">0</tspan>
+    <tspan x="190" fill="#e6edf3">4</tspan>
   </text>
 
   <text x="40" y="166"
         font-family="Courier New, Consolas, monospace"
         font-size="13">
     <tspan fill="#2dd4bf" font-weight="bold">Stars</tspan>
-    <tspan x="190" fill="#e6edf3">0</tspan>
+    <tspan x="190" fill="#e6edf3">1</tspan>
   </text>
 
   <text x="40" y="192"
