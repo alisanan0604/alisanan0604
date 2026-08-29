@@ -174,7 +174,18 @@ if heatmap_path.exists():
 
             y = start_y + day_index * (cell_size + gap)
 
-            color = day.get("color", "#161b22")
+            count = day.get("contributionCount", 0)
+
+            if count == 0:
+                color = "#161b22"
+            elif count <= 2:
+                color = "#0e4429"
+            elif count <= 5:
+                color = "#006d32"
+            elif count <= 9:
+                color = "#26a641"
+            else:
+                color = "#39d353"
 
             cells.append(
                 f'<rect x="{x}" y="{y}" '
