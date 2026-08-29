@@ -1,31 +1,44 @@
-name: Update GitHub README stats
+name: Update GitHub README Stats
 
 on:
-  push:
-    paths:
-      - "scripts/update_github_assets.py"
-  schedule:
-    - cron: "17 */6 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-profile-assets:
+  update:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update stats and heatmap
-        run: python scripts/update_github_assets.py
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
 
-      - name: Commit changes
+      - name: Update GitHub assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: alisanan0604
+        run: |
+          python scripts/update_github_assets.py
+
+      - name: Commit updated assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add assets/stats.svg assets/heatmap.svg
-          git diff --cached --quiet && exit 0
-          git commit -m "chore: update GitHub profile stats"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub stats"
           git push
