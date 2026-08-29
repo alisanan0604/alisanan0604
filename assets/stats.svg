@@ -82,7 +82,7 @@
         font-family="Courier New, Consolas, monospace"
         font-size="13">
     <tspan fill="#2dd4bf" font-weight="bold">Commits</tspan>
-    <tspan x="550" fill="#e6edf3">0</tspan>
+    <tspan x="550" fill="#e6edf3">96</tspan>
   </text>
 
   <text x="400" y="166"
